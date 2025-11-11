@@ -1,0 +1,2 @@
+# Luxe-Haven
+E-commerce website for Luxe Haven – an online dress shop.
